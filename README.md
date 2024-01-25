@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on funny soul
 - 📫 lilbalala
-- 😄 Pronouns: fuck man
+- 😄 Pronouns: fuck
 
 
 <!---
