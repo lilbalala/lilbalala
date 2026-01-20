@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @lilbalala
-- 👀 I’m interested in fuck
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on funny soul
-- 📫 lilbalala
-- 😄 Pronouns: fuck
+
 
 
 <!---
